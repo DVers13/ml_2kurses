@@ -1,0 +1,3 @@
+https://github.com/IamVOC/MLBasics/tree/main
+https://colab.research.google.com/drive/1Y24Mms9v0FdK57WY-zvdXcRMo0O4DSUh?usp=sharing
+https://pseudocoder.ru/ml-labs
